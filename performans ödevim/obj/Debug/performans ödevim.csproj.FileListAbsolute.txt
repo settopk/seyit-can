@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\performans ödevim\obj\Debug\performans ödevim.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\performans ödevim\obj\Debug\performans ödevim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\performans ödevim\obj\Debug\performans ödevim.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\performans ödevim\bin\Debug\performans ödevim.exe.config
+C:\Users\Administrator\Desktop\performans ödevim\bin\Debug\performans ödevim.exe
+C:\Users\Administrator\Desktop\performans ödevim\bin\Debug\performans ödevim.pdb
+C:\Users\Administrator\Desktop\performans ödevim\obj\Debug\performans ödevim.exe
+C:\Users\Administrator\Desktop\performans ödevim\obj\Debug\performans ödevim.pdb
